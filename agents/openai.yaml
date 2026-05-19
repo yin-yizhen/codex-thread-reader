@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Thread Reader"
+  short_description: "Read saved local Codex conversation threads"
+  default_prompt: "Use $codex-thread-reader to read and summarize this Codex thread: codex://threads/<thread-id>."
